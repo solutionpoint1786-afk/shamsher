@@ -215,7 +215,7 @@
 <script>
   // Copy phone/email to clipboard
   function copyContact(){
-    const contact = "MD SHAMSHER\nPhone: +919876543210\nEmail: example@gmail.com\nWebsite: https://renovaz.in";
+    const contact = "MD SHAMSHER\nPhone: +919555686667\nEmail:kiplshamsher@gmail.com\nWebsite: https://www.renovaz.in";
     navigator.clipboard.writeText(contact).then(()=>{
       alert("Contact copied to clipboard!");
     });
